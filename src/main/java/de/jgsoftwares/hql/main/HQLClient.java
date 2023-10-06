@@ -16,7 +16,9 @@ public class HQLClient
 {
 
     
-   
+    
+    
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) 
         {
                try
