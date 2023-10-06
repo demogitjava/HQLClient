@@ -31,7 +31,7 @@ public class Yourcompanydata implements Serializable
 
     private String ustidnr;
 
-    private String geschÃ¤ftsfÃ¼hrer;
+    private String geschäftsführer;
 
     private String amtsgericht;
 
@@ -121,12 +121,12 @@ public class Yourcompanydata implements Serializable
         this.ustidnr = ustidnr;
     }
 
-    public String getGeschÃ¤ftsfuhrer() {
-        return geschÃ¤ftsfÃ¼hrer;
+    public String getGeschäftsfuhrer() {
+        return geschäftsführer;
     }
 
-    public void setGeschÃ¤ftsfuhrer(String geschÃ¤ftsfuhrer) {
-        this.geschÃ¤ftsfÃ¼hrer = geschÃ¤ftsfuhrer;
+    public void setGeschäftsfuhrer(String geschäftsführer) {
+        this.geschäftsführer = geschäftsführer;
     }
 
     public String getAmtsgericht() {
